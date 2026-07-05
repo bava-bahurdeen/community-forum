@@ -1,0 +1,19 @@
+{
+  "feed.title": "Discussion Forum",
+  "feed.empty": "No posts available in this course feed.",
+  "saved.title": "Saved Posts",
+  "saved.empty": "No saved posts yet. Click the bookmark on any post in the feed to save it for later!",
+  "saved.count_zero": "0 saves",
+  "saved.count_one": "1 save",
+  "saved.count_plural": "{count} saves",
+  "post.delete_btn": "Remove Post",
+  "post.delete_success": "Post removed by moderator.",
+  "post.posted_by": "Posted by {author} • {date}",
+  "switcher.user_select": "Active Profile (Header Auth Simulation)",
+  "switcher.lang_select": "Locale",
+  "error.generic": "An error occurred",
+  "error.not_enrolled": "Access Denied: You are not enrolled in this course.",
+  "common.next": "Next",
+  "common.prev": "Previous",
+  "common.page": "Page {page} of {totalPages}"
+}

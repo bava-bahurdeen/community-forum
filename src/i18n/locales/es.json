@@ -1,0 +1,19 @@
+{
+  "feed.title": "Foro de Discusión",
+  "feed.empty": "No hay publicaciones disponibles en este curso.",
+  "saved.title": "Publicaciones Guardadas",
+  "saved.empty": "Aún no tienes publicaciones guardadas. ¡Haz clic en el marcador de cualquier publicación para guardarla!",
+  "saved.count_zero": "0 guardados",
+  "saved.count_one": "1 guardado",
+  "saved.count_plural": "{count} guardados",
+  "post.delete_btn": "Eliminar Publicación",
+  "post.delete_success": "Publicación eliminada por el moderador.",
+  "post.posted_by": "Publicado por {author} • {date}",
+  "switcher.user_select": "Perfil Activo (Simulación de Auth)",
+  "switcher.lang_select": "Idioma",
+  "error.generic": "Ha ocurrido un error",
+  "error.not_enrolled": "Acceso Denegado: No estás inscrito en este curso.",
+  "common.next": "Siguiente",
+  "common.prev": "Anterior",
+  "common.page": "Página {page} de {totalPages}"
+}
