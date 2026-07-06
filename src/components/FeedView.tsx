@@ -14,7 +14,7 @@ export default function FeedView() {
   const [page, setPage] = useState(1);
 
   const { data: courses, isLoading: coursesLoading, error: coursesError } = useCourses();
-
+// app
 
 
   const {
